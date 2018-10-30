@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptCalcLambda", "OptCalcLambda\OptCalcLambda.csproj", "{C7403568-64C8-4A14-91DD-FC2520E87E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7403568-64C8-4A14-91DD-FC2520E87E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7403568-64C8-4A14-91DD-FC2520E87E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7403568-64C8-4A14-91DD-FC2520E87E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7403568-64C8-4A14-91DD-FC2520E87E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841C35B9-74A5-4AF5-A78D-FB3D491B267B}
+	EndGlobalSection
+EndGlobal
